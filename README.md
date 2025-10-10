@@ -5,7 +5,7 @@
 
 ## 🎯 Ziel
 
-Ziel des Projekts **EventPlan** ist die Entwicklung einer webbasierten Anwendung, die die **Planung, Organisation und Koordination von Events** (z. B. Partys, Vereinsveranstaltungen, Meetings) unterstützt.  
+Ziel des Projekts **Planify** ist die Entwicklung einer webbasierten Anwendung, die die **Planung, Organisation und Koordination von Events** (z. B. Partys, Vereinsveranstaltungen, Meetings) unterstützt.  
 Das System ermöglicht mehreren Benutzern, Events gemeinsam zu verwalten, Aufgaben zu verteilen und die Kommunikation innerhalb eines Teams zu strukturieren.  
 
 **Hauptziele:**
@@ -18,7 +18,7 @@ Das System ermöglicht mehreren Benutzern, Events gemeinsam zu verwalten, Aufgab
 
 ## 💡 Vorteil
 
-**EventPlan** bietet im Gegensatz zu klassischen Tabellen oder Messenger-Gruppen eine **strukturierte, benutzerfreundliche Plattform**, die alle relevanten Informationen zu einem Event zentralisiert.  
+**Planify** bietet im Gegensatz zu klassischen Tabellen oder Messenger-Gruppen eine **strukturierte, benutzerfreundliche Plattform**, die alle relevanten Informationen zu einem Event zentralisiert.  
 
 **Vorteile für Nutzer:**
 - Keine chaotischen WhatsApp-Nachrichten oder E-Mail-Ketten mehr  
@@ -136,7 +136,7 @@ Kosten fallen nur für:
 ---
 
 ## 🧾 Fazit
-**EventPlan** bietet eine solide Basis für ein vollwertiges Software-Engineering-Projekt mit klarer Aufgabenteilung, dokumentierbaren Prozessen und realistischem Umfang.  
+**Planify** bietet eine solide Basis für ein vollwertiges Software-Engineering-Projekt mit klarer Aufgabenteilung, dokumentierbaren Prozessen und realistischem Umfang.  
 Es ist komplex genug, um architektonisch anspruchsvoll zu sein, aber überschaubar genug, um es in zwei Semestern zu **überleben**. 😭🙏  
 
 ---
