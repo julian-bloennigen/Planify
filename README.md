@@ -59,6 +59,7 @@ Zur Erfolgsmessung werden folgende **Metriken** definiert:
 - **Versionsverwaltung:** Git / GitHub  
 - **Dokumentation:** Markdown, UML-Diagramme (PlantUML), PDF-Berichte  
 - **Teststandards:** Unit-Tests (Jest/JUnit), Integrationstests mit Postman
+- **Stakeholder:** Hochschule(DHBW), Universitäten, Unternehemn, Privatpersonen
 
 ---
 
