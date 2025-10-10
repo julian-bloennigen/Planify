@@ -1,6 +1,8 @@
 # Planify 
 **Webbasierte Anwendung zur Planung und Organisation von Veranstaltungen**
 
+Autoren: Marius Gutschalk, Nils Beck, Julian Blönnigen, Lasse Schillinger
+
 ---
 
 ## Ziel
@@ -95,7 +97,7 @@ Kosten fallen nur für:
   4. Testphase & Fehlerbehebung (4 Wochen)  
   5. Dokumentation & Präsentation (3 Wochen)  
 
-**Puffer:** 2–3 Wochen für unerwartete Bugs, Gruppenausfälle oder Realitätszusammenbrüche 🥀  
+**Puffer:** 2–3 Wochen für unerwartete Bugs, Gruppenausfälle oder Realitätszusammenbrüche
 
 ---
 
