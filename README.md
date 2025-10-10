@@ -105,7 +105,7 @@ Kosten fallen nur für:
 ## Risiken
 
 | Risiko | Wahrscheinlichkeit | Beschreibung | Gegenmaßnahme |
-|--------|---------------|----------------|
+|--------|--------------------|---------------|----------------|
 | **Teamkoordination** | 90% | Unklare Aufgabenverteilung oder Kommunikationsprobleme | Wöchentliche Meetings, Aufgabenverwaltung in GitHub Projects |
 | **Technische Komplexität** | 60% | Schwierigkeiten mit Frameworks oder Datenbankmodell | Frühzeitiger Prototyp, regelmäßige Code-Reviews |
 | **Zeitmangel** | 10% | Überschneidung mit Prüfungsphasen oder anderen Projekten | Fester Zeitplan mit Meilensteinen |
