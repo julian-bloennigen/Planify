@@ -3,7 +3,7 @@
 
 ---
 
-## 🎯 Ziel
+## Ziel
 
 Ziel des Projekts **Planify** ist die Entwicklung einer webbasierten Anwendung, die die **Planung, Organisation und Koordination von Events** (z. B. Partys, Vereinsveranstaltungen, Meetings) unterstützt.  
 Das System ermöglicht mehreren Benutzern, Events gemeinsam zu verwalten, Aufgaben zu verteilen und die Kommunikation innerhalb eines Teams zu strukturieren.  
@@ -16,7 +16,7 @@ Das System ermöglicht mehreren Benutzern, Events gemeinsam zu verwalten, Aufgab
 
 ---
 
-## 💡 Vorteil
+## Vorteil
 
 **Planify** bietet im Gegensatz zu klassischen Tabellen oder Messenger-Gruppen eine **strukturierte, benutzerfreundliche Plattform**, die alle relevanten Informationen zu einem Event zentralisiert.  
 
@@ -33,7 +33,7 @@ Das System ermöglicht mehreren Benutzern, Events gemeinsam zu verwalten, Aufgab
 
 ---
 
-## 📊 Metriken
+## Metriken
 
 Zur Erfolgsmessung werden folgende **Metriken** definiert:
 
@@ -48,7 +48,7 @@ Zur Erfolgsmessung werden folgende **Metriken** definiert:
 
 ---
 
-## 🧱 Rahmenbedingungen
+## Rahmenbedingungen
 
 ### 🔧 Standards für Produkte und Systeme
 - **Softwarearchitektur:** Client-Server-Modell (REST-API)
@@ -62,7 +62,7 @@ Zur Erfolgsmessung werden folgende **Metriken** definiert:
 
 ---
 
-### ⚖️ Rechtliche Bestimmungen
+### Rechtliche Bestimmungen
 - **Datenschutz:** DSGVO-konforme Speicherung von Benutzerdaten  
   - Passwörter werden gehasht (z. B. bcrypt)  
   - Keine unnötige Speicherung personenbezogener Daten  
@@ -71,7 +71,7 @@ Zur Erfolgsmessung werden folgende **Metriken** definiert:
 
 ---
 
-### 🧍 Projekt- und Produktgegner
+### Projekt- und Produktgegner
 **Projektgegner:**  
 - Komplexität der Anforderungen bei begrenztem Zeitrahmen  
 - Unterschiedliche technische Erfahrung im Team  
@@ -83,7 +83,7 @@ Zur Erfolgsmessung werden folgende **Metriken** definiert:
 
 ---
 
-### 💰 Produktbudget
+### Produktbudget
 Da es sich um ein Hochschulprojekt handelt, wird **kein externes Budget** benötigt.  
 Kosten fallen nur für:
 - Entwicklungsumgebung (lokal, kostenlos)  
@@ -93,7 +93,7 @@ Kosten fallen nur für:
 
 ---
 
-### ⏰ Zeitliche Rahmenbedingungen
+### Zeitliche Rahmenbedingungen
 - **Projektlaufzeit:** 2 Semester / ca. **6 Monate**  
 - **Phasen:**
   1. Anforderungsanalyse (2 Wochen)  
@@ -106,7 +106,7 @@ Kosten fallen nur für:
 
 ---
 
-## ⚠️ Risiken
+## Risiken
 
 | Risiko | Beschreibung | Gegenmaßnahme |
 |--------|---------------|----------------|
@@ -119,15 +119,15 @@ Kosten fallen nur für:
 
 ---
 
-## 🚦 ToGo / NotToGo
+## ToGo / NotToGo
 
-### ✅ **ToGo (grünes Licht, falls erfüllt):**
+### **ToGo (grünes Licht, falls erfüllt):**
 - Anforderungen sind realistisch und klar definiert  
 - Team besitzt notwendige technische Kenntnisse  
 - Entwicklungsumgebung und Tools stehen fest  
 - Zeitrahmen und Dokumentationsplan vorhanden  
 
-### ❌ **NotToGo (Abbruchkriterien):**
+### **NotToGo (Abbruchkriterien):**
 - Kein funktionsfähiges Grundsystem nach der Hälfte der Projektzeit  
 - Teamkommunikation zusammengebrochen  
 - Anforderungen ändern sich fundamental  
@@ -135,7 +135,7 @@ Kosten fallen nur für:
 
 ---
 
-## 🧾 Fazit
+## Fazit
 **Planify** bietet eine solide Basis für ein vollwertiges Software-Engineering-Projekt mit klarer Aufgabenteilung, dokumentierbaren Prozessen und realistischem Umfang.  
 Es ist komplex genug, um architektonisch anspruchsvoll zu sein, aber überschaubar genug, um es in zwei Semestern zu **überleben**. 😭🙏  
 
