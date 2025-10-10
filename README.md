@@ -72,14 +72,7 @@ Zur Erfolgsmessung werden folgende **Metriken** definiert:
 ---
 
 ### Projekt- und Produktgegner
-**Projektgegner:**  
-- Komplexität der Anforderungen bei begrenztem Zeitrahmen  
-- Unterschiedliche technische Erfahrung im Team  
-- Mangelnde Dokumentationsdisziplin  
-
-**Produktgegner (externe Risiken):**  
 - Konkurrenzprodukte wie Google Calendar oder Trello  
-- Nutzerakzeptanzprobleme (zu viele Funktionen, zu komplexe Bedienung)  
 
 ---
 
