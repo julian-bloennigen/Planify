@@ -52,7 +52,7 @@ Zur Erfolgsmessung werden folgende **Metriken** definiert:
 
 ## Rahmenbedingungen
 
-### 🔧 Standards für Produkte und Systeme
+###  Standards für Produkte und Systeme
 - **Softwarearchitektur:** Client-Server-Modell (REST-API)
 - **Programmiersprachen:**  
   - Frontend: React (JavaScript/TypeScript)  
@@ -61,6 +61,7 @@ Zur Erfolgsmessung werden folgende **Metriken** definiert:
 - **Versionsverwaltung:** Git / GitHub  
 - **Dokumentation:** Markdown, UML-Diagramme (PlantUML), PDF-Berichte  
 - **Teststandards:** Unit-Tests (Jest/JUnit), Integrationstests mit Postman
+- **Stakeholder:** Hochschule(DHBW), Universitäten, Unternehemn, Privatpersonen
 
 ---
 
