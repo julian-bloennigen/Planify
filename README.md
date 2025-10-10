@@ -108,26 +108,27 @@ Kosten fallen nur für:
 
 ## Risiken
 
-| Risiko | Beschreibung | Gegenmaßnahme |
+| Risiko | Wahrscheinlichkeit | Beschreibung | Gegenmaßnahme |
 |--------|---------------|----------------|
-| **Teamkoordination** | Unklare Aufgabenverteilung oder Kommunikationsprobleme | Wöchentliche Meetings, Aufgabenverwaltung in GitHub Projects |
-| **Technische Komplexität** | Schwierigkeiten mit Frameworks oder Datenbankmodell | Frühzeitiger Prototyp, regelmäßige Code-Reviews |
-| **Zeitmangel** | Überschneidung mit Prüfungsphasen oder anderen Projekten | Fester Zeitplan mit Meilensteinen |
-| **Versionskonflikte** | Merge-Konflikte im Git-Repository | Branch-Strategie (z. B. GitFlow) |
-| **Datenverlust** | Fehlerhafte Migration oder Drop der DB | Regelmäßige Backups |
-| **Motivationsverlust** | Teammitglieder verlieren Interesse | Aufgabenrotation, Fortschrittspräsentationen |
+| **Teamkoordination** | 90% | Unklare Aufgabenverteilung oder Kommunikationsprobleme | Wöchentliche Meetings, Aufgabenverwaltung in GitHub Projects |
+| **Technische Komplexität** | 60% | Schwierigkeiten mit Frameworks oder Datenbankmodell | Frühzeitiger Prototyp, regelmäßige Code-Reviews |
+| **Zeitmangel** | 10% | Überschneidung mit Prüfungsphasen oder anderen Projekten | Fester Zeitplan mit Meilensteinen |
+| **Versionskonflikte** | 100% | Merge-Konflikte im Git-Repository | Branch-Strategie (z. B. GitFlow) |
+| **Datenverlust** | 70% | Fehlerhafte Migration oder Drop der DB | Regelmäßige Backups |
+| **Motivationsverlust** | 100% | Teammitglieder verlieren Interesse | Aufgabenrotation, Fortschrittspräsentationen |
+| **Mitgliederverlust** | 50% | Exmatrikulation eines Mitglieds | Mehr Lernen, Aufgaben gleich verteilen |
 
 ---
 
 ## ToGo / NotToGo
 
-### **ToGo (grünes Licht, falls erfüllt):**
+### **ToGo:**
 - Anforderungen sind realistisch und klar definiert  
 - Team besitzt notwendige technische Kenntnisse  
 - Entwicklungsumgebung und Tools stehen fest  
 - Zeitrahmen und Dokumentationsplan vorhanden  
 
-### **NotToGo (Abbruchkriterien):**
+### **NotToGo:**
 - Kein funktionsfähiges Grundsystem nach der Hälfte der Projektzeit  
 - Teamkommunikation zusammengebrochen  
 - Anforderungen ändern sich fundamental  
