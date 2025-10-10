@@ -50,7 +50,7 @@ Zur Erfolgsmessung werden folgende **Metriken** definiert:
 
 ## Rahmenbedingungen
 
-### 🔧 Standards für Produkte und Systeme
+###  Standards für Produkte und Systeme
 - **Softwarearchitektur:** Client-Server-Modell (REST-API)
 - **Programmiersprachen:**  
   - Frontend: React (JavaScript/TypeScript)  
